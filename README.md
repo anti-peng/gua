@@ -1,0 +1,2 @@
+# gua
+Golang + Lua = Gua
